@@ -24,6 +24,8 @@ The driving simulator would save frames from three front-facing "cameras", recor
   <img src="run.gif" alt="Driving"/>
 </p>
 
+
+Video: https://www.youtube.com/watch?v=hTPADovdyfA&t=99s
 ## References
 
 1. https://arxiv.org/pdf/1604.07316.pdf
