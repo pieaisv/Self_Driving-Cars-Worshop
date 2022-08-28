@@ -1,4 +1,3 @@
-# Behavioral Cloning For Self Driving Cars
 
 Implementation of the paper "End to End Learning for Self-Driving Cars"
 
