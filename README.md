@@ -6,22 +6,8 @@ Implementation of the paper "End to End Learning for Self-Driving Cars"
 
 If you find this code useful in your research, please consider citing the blog:
 
-```
-@misc{sagardriving,
-  Author = {Abhinav Sagar},
-  Title = {How to Train Your Self Driving Car Using Deep Learning},
-  Year = {2019},
-  Journal = {Towards Data Science},
-}
-```
 
-## IMPORTANT
 
-Absolutely, under NO circumstance, should one ever pilot a car using computer vision software trained with this code (or any home made software for that matter).
-
-This code is purely for research and statistics, absolutley NOT for application or testing of any sort.
-
-Check out the corresponding medium blog post [https://towardsdatascience.com/how-to-train-your-self-driving-car-using-deep-learning-ce8ff76119cb](https://towardsdatascience.com/how-to-train-your-self-driving-car-using-deep-learning-ce8ff76119cb).
 
 ## Goal
 
